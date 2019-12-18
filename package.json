@@ -1,0 +1,16 @@
+{
+  "name": "primerappnode",
+  "version": "1.0.1",
+  "description": "Estas es una aplicaión de línea de comando, la primera",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Félix",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {}
+}
